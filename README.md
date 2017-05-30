@@ -1,11 +1,11 @@
-![Mold](images/logo.jpg)
+![Mold](screen.png)
 
 *Mold is a command-line utility that generates documentation for Swift or Objective-C*
 
 ## About
 
 
-![Screenshot](images/screenshot.jpg)
+![Screenshot](code.png)
 
 
 ## Installation
