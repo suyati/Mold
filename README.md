@@ -16,7 +16,7 @@ more: https://www.objc.io/issues/13-architecture/viper/
 ## Installation
 1. Download the files from this repository.
 2. Open Termial
-3. Navigate to the folder
+3. Navigate to the downloaded folder
 4. Run the following script
 5. That's it :)
 ```shell
