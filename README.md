@@ -6,7 +6,7 @@ While using architecture like VIPER or MVP,it is tiresome to create files and es
 Mold will help you create these files and establish all the connections in a very few steps. Mold will be available as a template in your Xcode itself. 
 
 
-![Mold](screen.png)
+![Mold](gif.gif)
 
 
 
