@@ -20,7 +20,7 @@ sudo swift mold.swift
 
 ## Usage
 
-After installing you can access the templates from File -> New File. Scroll to the bottom and you can see a section named [ Mold].
+After installing you can access the templates from File -> New File. Scroll to the bottom and you can see a section named  [Mold].
 
 ## License
 
