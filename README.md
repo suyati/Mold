@@ -20,11 +20,11 @@ sudo swift mold.swift
 
 ## Usage
 
-After installing you can access the templates from File -> New File. Scroll to the bottom and you can see a section named  ![Mold].
+After installing you can access the templates from File -> New File. Scroll to the bottom and you can see a section named Mold.
 
 ## License
 
-This project is released under the [MIT license](https://github.com/realm/jazzy/blob/master/LICENSE).
+This project is released under the [MIT license](https://github.com/rgeorgesuyati/Mold/blob/master/LICENSE).
 
 ## About
 
