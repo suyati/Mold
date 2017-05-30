@@ -11,7 +11,7 @@
 ## Installation
 
 ```shell
-[sudo] gem install jazzy
+sudo swift mold.swift
 ```
 
 ## Usage
