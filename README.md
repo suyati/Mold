@@ -1,6 +1,10 @@
 ## Mold
-
 *Mold gives super power to your Xcode with ready-to-use templates. Mold includes template for VIPER now. MVVM and MVP will be added soon.*
+
+While using architecture like VIPER or MVP,it is tiresome to create files and establish connections. For example if you are following VIPER architecture, for one module, you have to create atleast 5 files. You also have to create connections between all these components using protocols. 
+
+Mold will help you create these files and establish all the connections in a very few steps. Mold will be available as a template in your Xcode itself. 
+
 
 ![Mold](screen.png)
 
