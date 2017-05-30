@@ -6,10 +6,6 @@ While using architecture like VIPER or MVP,it is tiresome to create files and es
 Mold will help you create these files and establish all the connections in a very few steps. Mold will be available as a template in your Xcode itself. 
 
 
-![Mold](gif.gif)
-
-
-
 ## VIPER
 
 VIPER is an application of Clean Architecture to iOS apps. The word VIPER is a backronym for View, Interactor, Presenter, Entity, and Routing. Clean Architecture divides an app’s logical structure into distinct layers of responsibility. This makes it easier to isolate dependencies (e.g. your database) and to test the interactions at the boundaries between layers:
@@ -31,7 +27,7 @@ sudo swift mold.swift
 
 After installing you can access the templates from File -> New File. Scroll to the bottom and you can see a section named Mold.
 
-![Screenshot](code.png)
+![Mold](gif.gif)
 
 ## License
 
