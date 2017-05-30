@@ -1,11 +1,11 @@
 ![Mold](screen.png)
 
-*Mold is a command-line utility that generates documentation for Swift or Objective-C*
+*Mold gives super power to your Xcode with ready-to-use templates. Mold includes template for VIPER now. MVVM, MVP and good ol' MVC will be added soon.*
 
 ## About
 
 
-![Screenshot](code.png)
+
 
 
 ## Installation
@@ -21,6 +21,8 @@ sudo swift mold.swift
 ## Usage
 
 After installing you can access the templates from File -> New File. Scroll to the bottom and you can see a section named Mold.
+
+![Screenshot](code.png)
 
 ## License
 
