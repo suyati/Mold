@@ -1,17 +1,16 @@
 //
-// Created by Rijo George
-// Copyright (c) 2017 Rijo George. All rights reserved.
+// Created by 
+// Copyright © 2017年 i-studio development team. All rights reserved.
 //
 
 import Foundation
 
-class ___FILEBASENAMEASIDENTIFIER___Interactor
-{
-    weak var presenter: ___FILEBASENAMEASIDENTIFIER___InteractorOutputProtocol?
-    init() {}
+class ___FILEBASENAMEASIDENTIFIER___Interactor {
+    
+    weak var presenter: ___FILEBASENAMEASIDENTIFIER___InteractorOutputProtocol!
 }
 
-extension ___FILEBASENAMEASIDENTIFIER___Interactor:___FILEBASENAMEASIDENTIFIER___InteractorInputProtocol{
+extension ___FILEBASENAMEASIDENTIFIER___Interactor: ___FILEBASENAMEASIDENTIFIER___InteractorInputProtocol {
     
     
 }
