@@ -1,14 +1,13 @@
 //
-// Created by Rijo George
-// Copyright (c) 2017 Rijo George. All rights reserved.
+// Created by
+// Copyright © 2017年 i-studio development team. All rights reserved.
 //
 
 import Foundation
 import UIKit
 
-class ___FILEBASENAMEASIDENTIFIER___View: UIViewController
-{
-    var presenter: ___FILEBASENAMEASIDENTIFIER___PresenterProtocol?
+class ___FILEBASENAMEASIDENTIFIER___ViewController: UIViewController {
+    var presenter: ___FILEBASENAMEASIDENTIFIER___PresenterProtocol!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -30,6 +29,6 @@ class ___FILEBASENAMEASIDENTIFIER___View: UIViewController
     }
 }
 
-extension ___FILEBASENAMEASIDENTIFIER___View: ___FILEBASENAMEASIDENTIFIER___ViewProtocol{
+extension ___FILEBASENAMEASIDENTIFIER___ViewController: ___FILEBASENAMEASIDENTIFIER___ViewProtocol{
    
 }
